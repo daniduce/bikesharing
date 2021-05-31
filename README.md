@@ -1,12 +1,12 @@
 # Bikesharing
 ### Tableau
 
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis: 
 
 Kate and I went to New York City and had a great time seeing the sights. By using the Citi Bike sharing program we were able to make the most of this trip and visit all of the places on our itinerary. After much discussion, it would be a great idea to start a similar bike sharing program in Des Moines, Iowa.  Now we now have a possible investor who is also interested in exploring the bike sharing business in Des Moines. Using Tableau, we will digest the Citi Bike data to create visualizations and an analysis for how this can work in Des Moines, then create a proposal for our investor.
 
 
-## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+## Results: 
 
 <img width="1061" alt="Screen Shot 2021-01-18 at 8 34 17 PM" src="https://user-images.githubusercontent.com/71396367/104978776-a3bbde00-59d0-11eb-8c05-3774dd4bd190.png">
 
@@ -37,7 +37,7 @@ The top starting locations within New York City are within Manhattan, particular
 Men were the top users and subscribers for the Citi Bike Sharing Program, while women came in second. We also had some users that are unknown since we do not know their gender. 
 
 
-## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+## Summary: 
 
 In summary, a bike sharing program in Des Moines could possibly work in the city center and downtown area. This is a good transportation option for tourists that are here to visit. There is also an incentive to locals commuting to and from work in the downtown area. Not only would locals be able to save on gas and on time, but they would be able to check out and check in at different locations.  With a promising investor and business plan, a bike sharing program in Des Moines, Iowa could be very successful.   
 
